@@ -24,4 +24,4 @@ Use the Bootstrap CSS Framework to create webpages.
 - Recognize common applications of the Python programming language.
 - Explain foundational software engineering concepts.
 - Use operators to program a simple output in Python.
-- Use control flow and loops to solve a problem
+- Use control flow and loops to solve a problem.
