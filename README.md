@@ -18,3 +18,6 @@ Use the Bootstrap CSS Framework to create webpages.
 - Synthesize the skills from this course to create and style a simple Bio page.
 - Reflect on this course's content and on the learning path that lies ahead.
 ---
+##  2nd: Programming in Python.
+###  Learning Objectives:
+####  Week1:
