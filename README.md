@@ -17,3 +17,4 @@ Use the Bootstrap CSS Framework to create webpages.
 ####  Week4:
 - Synthesize the skills from this course to create and style a simple Bio page.
 - Reflect on this course's content and on the learning path that lies ahead.
+---
