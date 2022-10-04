@@ -9,8 +9,8 @@
 - Use HTML to create a simple web page.
 - Use CSS to define style of a simple web page.
 ####  Week3:
-- Outline the concepts that exist in most UI frameworks using bootstrap as an example to directly reference common practice
-Use the Bootstrap CSS Framework to create webpages.
+- Outline the concepts that exist in most UI frameworks using bootstrap as an example to directly reference 
+common practice use the Bootstrap CSS Framework to create webpages.
 - Leverage bootstrap documentation to reproduce and modify CSS components.
 - Use bootstrap themes.
 - Describe the basics of react in relation to other frameworks and web technologies.
