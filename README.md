@@ -39,3 +39,7 @@ common practice use the Bootstrap CSS Framework to create webpages.
 - Instantiate and work with objects, classes and methods in Python.
 - Explain the object-oriented programming concepts that underpin Python
 ####  Week4:
+- Find, import and use popular Python modules and packages.
+- Leverage powerful tools to optimize the programming workflow.
+- Explain the types of testing and their features
+- Use testing tools to write a test
