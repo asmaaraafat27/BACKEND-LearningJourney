@@ -43,3 +43,10 @@ common practice use the Bootstrap CSS Framework to create webpages.
 - Leverage powerful tools to optimize the programming workflow.
 - Explain the types of testing and their features
 - Use testing tools to write a test
+---
+##  3rd: Version Control:
+###  Learning Objectives:
+####  Week1:
+- Describe how modern software teams collaborate and work on the same codebase.
+- List different version control systems and methodologies.
+- Illustrate a standard software development workflow.
