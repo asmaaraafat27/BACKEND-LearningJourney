@@ -44,7 +44,7 @@ common practice use the Bootstrap CSS Framework to create webpages.
 - Explain the types of testing and their features
 - Use testing tools to write a test
 ---
-##  3rd: Version Control:
+##  3rd: Version Control.
 ###  Learning Objectives:
 ####  Week1:
 - Describe how modern software teams collaborate and work on the same codebase.
