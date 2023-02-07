@@ -63,3 +63,13 @@ common practice use the Bootstrap CSS Framework to create webpages.
 - Describe how code goes from local development to version control and then to live production.
 ####  Week4:
 - Apply the skills and knowledge from this course on Version Control in a practical assessment.
+---
+##  4th: Introduction to Databases for Back-End Development.
+###  Learning Objectives:
+####  Week1:
+- Explain what a database is, and what its general uses are.
+- Explain how data is related in a database.
+- Differentiate between types of databases.
+- Apply the syntax rules of SQL to use common SQL commands.
+- Explain how tables are used to organize data in databases.
+- Differentiate between the types of keys used in a table.
