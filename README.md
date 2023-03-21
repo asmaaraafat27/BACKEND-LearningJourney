@@ -79,3 +79,6 @@ common practice use the Bootstrap CSS Framework to create webpages.
 - Read records and tables in an existing database.
 - Update records and tables in an existing database.
 - Delete records and tables from an existing database.
+####  Week3:
+- Explain how SQL operators are used within a database
+- Sort and filter data in an existing database.
