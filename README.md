@@ -73,3 +73,9 @@ common practice use the Bootstrap CSS Framework to create webpages.
 - Apply the syntax rules of SQL to use common SQL commands.
 - Explain how tables are used to organize data in databases.
 - Differentiate between the types of keys used in a table.
+####  Week2:
+- Differentiate between SQL data types.
+- Create new records and tables in an existing database.
+- Read records and tables in an existing database.
+- Update records and tables in an existing database.
+- Delete records and tables from an existing database.
