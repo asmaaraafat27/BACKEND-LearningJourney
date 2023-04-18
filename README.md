@@ -82,3 +82,11 @@ common practice use the Bootstrap CSS Framework to create webpages.
 ####  Week3:
 - Explain how SQL operators are used within a database
 - Sort and filter data in an existing database.
+####  Week4:
+- Describe how tables are structured in a database.
+- Differentiate between types of database schema.
+- Define different types of keys in a database.
+- Maintain data integrity and relationships through the use of keys.
+- Define relationships between entities in a database.
+####  Week5:
+- Demonstrate your understanding of the skills and concepts covered in the course.
