@@ -90,3 +90,7 @@ common practice use the Bootstrap CSS Framework to create webpages.
 - Define relationships between entities in a database.
 ####  Week5:
 - Demonstrate your understanding of the skills and concepts covered in the course.
+---
+##  5th: Django Web Framework.
+###  Learning Objectives:
+####  Week1:
